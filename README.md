@@ -13,6 +13,18 @@ That's the whole core ask, deliberately small — it shouldn't take long.
 Data can live in memory or a local file (e.g. JSON). You do not need a
 real database.
 
+## Getting started
+
+Please don't fork this repo — forks are public and visible to everyone,
+including other candidates. Instead:
+
+1. Clone this repo locally.
+2. Create a new, empty **public** repository under your own GitHub
+   account.
+3. Push this code to that new repository.
+4. Include the link to your repository in your submission (see
+   Deliverables below).
+
 ## Going further (optional)
 
 The core above is intentionally minimal. If you finish it and see
@@ -52,6 +64,7 @@ part of it and why you didn't take the alternatives.
 
 ## Deliverables
 
-1. Your code, committed to this repo.
+1. Your code, pushed to your own public GitHub repo (see "Getting
+   started" above) — include the link to it in your submission.
 2. A filled-in copy of [`docs/SUBMISSION_TEMPLATE.md`](docs/SUBMISSION_TEMPLATE.md).
 3. A one-line note on how to run it, if it isn't obvious.
