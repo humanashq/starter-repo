@@ -16,14 +16,26 @@ real database.
 ## Getting started
 
 Please don't fork this repo — forks are public and visible to everyone,
-including other candidates. Instead:
+including other candidates. Your work should stay private to you and us.
+
+The quickest way:
+
+1. Click **Use this template → Create a new repository**, and set the
+   visibility to **Private**.
+2. Add the GitHub users listed in your invitation email as
+   collaborators, so we can review your work.
+
+Or, if you prefer to do it by hand:
 
 1. Clone this repo locally.
-2. Create a new, empty **public** repository under your own GitHub
+2. Create a new, empty **private** repository under your own GitHub
    account.
 3. Push this code to that new repository.
-4. Include the link to your repository in your submission (see
-   Deliverables below).
+4. Add the GitHub users listed in your invitation email as
+   collaborators.
+
+Either way, include the link to your repository in your submission (see
+Deliverables below).
 
 ## Going further (optional)
 
@@ -64,7 +76,8 @@ part of it and why you didn't take the alternatives.
 
 ## Deliverables
 
-1. Your code, pushed to your own public GitHub repo (see "Getting
-   started" above) — include the link to it in your submission.
+1. Your code, pushed to your own private GitHub repo with us added as
+   collaborators (see "Getting started" above) — include the link to it
+   in your submission.
 2. A filled-in copy of [`docs/SUBMISSION_TEMPLATE.md`](docs/SUBMISSION_TEMPLATE.md).
 3. A one-line note on how to run it, if it isn't obvious.
